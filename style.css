@@ -98,9 +98,7 @@ nav ul li a:hover {
 } 
 
 .content-section .container {
-    display: flex;
-    align-items: center;
-    gap: 40px; 
+    display: block;
 }
 
 /* Estilo para alternar imagem/texto (classe reversed no HTML) */
